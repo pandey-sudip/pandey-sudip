@@ -36,9 +36,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=technical-vandar-885&show_icons=true&locale=en&layout=compact" alt="technical-vandar-885" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=technical-vandar-885&show_icons=true&locale=en" alt="technical-vandar-885" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=technical-vandar-885&show_icons=true&locale=en" width="450" alt="technical-vandar-885" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=technical-vandar-885&" alt="technical-vandar-885" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=technical-vandar-885&" width="450" alt="technical-vandar-885" /></p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technical-vandar-885" alt="technical-vandar-885" /></a> </p>

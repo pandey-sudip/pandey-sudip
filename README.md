@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **technical.vandar@gmail.com**
 
-- ⚡ Fun fact **Hacker From Wirh knowlwdge**
+- ⚡ Fun fact **Hacker With knowlwdge**
 
 
 <h3 align="left">Connect with me:</h3>

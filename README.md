@@ -42,5 +42,4 @@
 
 
 <br><br>
-<img src='./github-contribution-grid-snake.gif' alt='git snake'>
-<br><br>
+![Snake animation](https://github.com/technical-vandar-885/technical-vandar-885/blob/output/github-contribution-grid-snake.svg)<br><br>

@@ -39,9 +39,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=technical-vandar-885&show_icons=true&locale=en" alt="technical-vandar-885" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=technical-vandar-885&" alt="technical-vandar-885" /></p>
-### ✍️ Random Dev Quote
-![](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
-
+### ✍️ Random Dev Quote<br>
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)<br>
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 

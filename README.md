@@ -42,5 +42,4 @@
 ## ✍Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" alt="Dev Meme😂">
 
-![Snake animation](https://github.com/technical-vandar-885//technical-vandar-885/blob/output/github-contribution-grid-snake.svg)
 

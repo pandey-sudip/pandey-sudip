@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandey-sudip&show_icons=true&locale=en&layout=compact" alt="technical-vandar-885" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandey-sudip&show_icons=true&locale=en" alt="technical-vandar-885" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandey-sudip&theme=radical&show_icons=true" alt="technical-vandar-885" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey-sudip&" alt="technical-vandar-885" /></p>
 <br>

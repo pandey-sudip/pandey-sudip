@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey-sudip&" alt="technical-vandar-885" /></p>
 <br>
 
-## ✍Random Dev Quote
+## ✍Random Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <br>
 
